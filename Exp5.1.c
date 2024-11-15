@@ -1,5 +1,5 @@
 /*Expt. No.:5.1
-UIN:241P066
+UIN:241P065
 Title:WAP to find the factorial of a number using iterative function.
 */
 
