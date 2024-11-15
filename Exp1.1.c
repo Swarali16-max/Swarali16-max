@@ -19,11 +19,11 @@ int main()
 }
 
 /*Output:
-Name            :       M Moin M Sameer Bhurani
+Name            :       Swarali
 Age                     :       18
 Class   :       First Year
 Div                     :       C3
-UIN                     :       241p059
+UIN                     :       241p065
 
 Process returned 0 (0x0)   execution time : 0.072 s
 Press any key to continue.*/
